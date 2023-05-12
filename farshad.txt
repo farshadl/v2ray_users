@@ -3,7 +3,7 @@ vless://d3f120dc-27de-471b-fb60-64c38040da44@msr.farshadl.top:2053?encryption=no
 vless://f03bf902-5046-4cbd-80ff-b14b0f5e69f6@serv2.farshadl.top:11206?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eset.com&fp=firefox&pbk=CbcY9qc4YuMDJDyyL0OITlU824TBg1O84ClPy27e2RM&sid=c84fe99c&type=tcp&headerType=none#Farshad_reality
 vless://d3f120dc-27de-471b-fb60-64c38040da44@mci1.farshadl.top:2053?encryption=none&security=tls&sni=msr.farshadl.top&type=ws&host=msr.farshadl.top&path=%2FIR%401453#Farshad_MCI1
 vless://d3f120dc-27de-471b-fb60-64c38040da44@mci2.farshadl.top:2053?encryption=none&security=tls&sni=msr.farshadl.top&type=ws&host=msr.farshadl.top&path=%2FIR%401453#Farshad_MCI2
-vless://d3f120dc-27de-471b-fb60-64c38040da44@mtn.farshadl.top:2053?encryption=none&security=tls&sni=msr.farshadl.top&type=ws&host=msr.farshadl.top&path=%2FIR%401453#Farshad_TCM
+vless://d3f120dc-27de-471b-fb60-64c38040da44@mtn.farshadl.top:2053?encryption=none&security=tls&sni=msr.farshadl.top&type=ws&host=msr.farshadl.top&path=%2FIR%401453#Farshad_MTN
 vless://d3f120dc-27de-471b-fb60-64c38040da44@mkh.farshadl.top:2053?encryption=none&security=tls&sni=msr.farshadl.top&type=ws&host=msr.farshadl.top&path=%2FIR%401453#Farshad_Mokhaberat
 vless://d3f120dc-27de-471b-fb60-64c38040da44@ast.farshadl.top:2053?encryption=none&security=tls&sni=msr.farshadl.top&type=ws&host=msr.farshadl.top&path=%2FIR%401453#Farshad_Asiatech
 vless://ae78f845-89f4-4203-cf6f-45a37f4316a7@104.25.140.153:443?encryption=none&security=tls&type=ws&host=natvpswrk2.farshad-l.workers.dev&path=%2Fworker.farshadl.top#Farshad_worker1
