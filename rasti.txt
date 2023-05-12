@@ -1,0 +1,5 @@
+vless://aa295e04-069e-4869-ce8b-09423ac5591d@natserv.farshadl.top:2053?encryption=none&security=tls&type=ws&path=%2F#rasti_Direct
+vless://aa295e04-069e-4869-ce8b-09423ac5591d@mci1.farshadl.top:2053?encryption=none&security=tls&sni=natserv.farshadl.top&type=ws&host=natserv.farshadl.top&path=%2F#rasti_MCI1
+vless://aa295e04-069e-4869-ce8b-09423ac5591d@mci2.farshadl.top:2053?encryption=none&security=tls&sni=natserv.farshadl.top&type=ws&host=natserv.farshadl.top&path=%2F#rasti_MCI2
+vless://595ed327-adff-4bf2-cff2-9a63b4c8c83c@104.25.140.153:443?encryption=none&security=tls&type=ws&host=natvpswrk2.farshad-l.workers.dev&path=%2Fworker.farshadl.top#rasti_worker1
+vless://595ed327-adff-4bf2-cff2-9a63b4c8c83c@104.25.140.153:443?encryption=none&security=tls&type=ws&host=wrk2.farshad-l-1988.workers.dev&path=%2Fworker.farshadl.top#rasti_worker2

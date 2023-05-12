@@ -1,0 +1,5 @@
+vless://530fac2d-ca7b-4f41-ca2d-40af94e92e7c@natserv.farshadl.top:2053?encryption=none&security=tls&type=ws&path=%2F#beigi_Direct
+vless://530fac2d-ca7b-4f41-ca2d-40af94e92e7c@mci1.farshadl.top:2053?encryption=none&security=tls&sni=natserv.farshadl.top&type=ws&host=natserv.farshadl.top&path=%2F#beigi_MCI1
+vless://530fac2d-ca7b-4f41-ca2d-40af94e92e7c@mci2.farshadl.top:2053?encryption=none&security=tls&sni=natserv.farshadl.top&type=ws&host=natserv.farshadl.top&path=%2F#beigi_MCI2
+vless://47676721-671f-4a4b-ec66-30561ef037a7@104.25.140.153:443?encryption=none&security=tls&type=ws&host=natvpswrk2.farshad-l.workers.dev&path=%2Fworker.farshadl.top#beigi_worker1
+vless://47676721-671f-4a4b-ec66-30561ef037a7@104.25.140.153:443?encryption=none&security=tls&type=ws&host=wrk2.farshad-l-1988.workers.dev&path=%2Fworker.farshadl.top#beigi_worker2

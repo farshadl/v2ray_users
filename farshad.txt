@@ -1,0 +1,13 @@
+vless://a22c60cd-2da0-46a1-915b-66bca56e5d93@serv2.farshadl.top:11205?encryption=none&security=none&type=tcp&headerType=http&host=snapp.ir#Farshad_Direct
+vless://d3f120dc-27de-471b-fb60-64c38040da44@natserv.farshadl.top:2053?encryption=none&security=tls&type=ws&path=%2F#Farshad_Direct_Proxy
+vless://f03bf902-5046-4cbd-80ff-b14b0f5e69f6@serv2.farshadl.top:11206?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eset.com&fp=firefox&pbk=CbcY9qc4YuMDJDyyL0OITlU824TBg1O84ClPy27e2RM&sid=c84fe99c&type=tcp&headerType=none#Farshad_reality
+vless://d3f120dc-27de-471b-fb60-64c38040da44@mci1.farshadl.top:2053?encryption=none&security=tls&sni=natserv.farshadl.top&type=ws&host=natserv.farshadl.top&path=%2F#Farshad_MCI1
+vless://d3f120dc-27de-471b-fb60-64c38040da44@mci2.farshadl.top:2053?encryption=none&security=tls&sni=natserv.farshadl.top&type=ws&host=natserv.farshadl.top&path=%2F#Farshad_MCI2
+vless://d3f120dc-27de-471b-fb60-64c38040da44@mtn.farshadl.top:2053?encryption=none&security=tls&sni=natserv.farshadl.top&type=ws&host=natserv.farshadl.top&path=%2F#Farshad_MTN
+vless://d3f120dc-27de-471b-fb60-64c38040da44@mkh.farshadl.top:2053?encryption=none&security=tls&sni=natserv.farshadl.top&type=ws&host=natserv.farshadl.top&path=%2F#Farshad_Mokhaberat
+vless://d3f120dc-27de-471b-fb60-64c38040da44@ast.farshadl.top:2053?encryption=none&security=tls&sni=natserv.farshadl.top&type=ws&host=natserv.farshadl.top&path=%2F#Farshad_Asiatech
+vless://ae78f845-89f4-4203-cf6f-45a37f4316a7@104.25.140.153:443?encryption=none&security=tls&type=ws&host=natvpswrk2.farshad-l.workers.dev&path=%2Fworker.farshadl.top#Farshad_worker1
+vless://ae78f845-89f4-4203-cf6f-45a37f4316a7@104.25.140.153:443?encryption=none&security=tls&type=ws&host=wrk2.farshad-l-1988.workers.dev&path=%2Fworker.farshadl.top#Farshad_worker2
+
+
+

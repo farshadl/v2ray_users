@@ -1,0 +1,6 @@
+vless://e6ba3b1a-a766-44a2-9b33-b695504ec3d4@natserv.farshadl.top:2053?encryption=none&security=tls&type=ws&path=%2F#seyed_Direct
+vless://e6ba3b1a-a766-44a2-9b33-b695504ec3d4@mci1.farshadl.top:2053?encryption=none&security=tls&sni=natserv.farshadl.top&type=ws&host=natserv.farshadl.top&path=%2F#seyed_MCI1
+vless://e6ba3b1a-a766-44a2-9b33-b695504ec3d4@mci2.farshadl.top:2053?encryption=none&security=tls&sni=natserv.farshadl.top&type=ws&host=natserv.farshadl.top&path=%2F#seyed_MCI2
+vless://e6ba3b1a-a766-44a2-9b33-b695504ec3d4@ast.farshadl.top:2053?encryption=none&security=tls&sni=natserv.farshadl.top&type=ws&host=natserv.farshadl.top&path=%2F#seyed_Asiatech
+vless://943c679c-c017-4ad3-ee71-c2468d47a7f4@104.25.140.153:443?encryption=none&security=tls&type=ws&host=natvpswrk2.farshad-l.workers.dev&path=%2Fworker.farshadl.top#seyed_worker1
+vless://943c679c-c017-4ad3-ee71-c2468d47a7f4@104.25.140.153:443?encryption=none&security=tls&type=ws&host=wrk2.farshad-l-1988.workers.dev&path=%2Fworker.farshadl.top#seyed_worker2
