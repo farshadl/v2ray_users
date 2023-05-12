@@ -1,5 +1,5 @@
-vless://559be4d0-3be2-4bb9-96a6-a2d64a81e1b9@natserv.farshadl.top:2053?encryption=none&security=tls&type=ws&path=%2F#saman_Direct
-vless://559be4d0-3be2-4bb9-96a6-a2d64a81e1b9@mci1.farshadl.top:2053?encryption=none&security=tls&sni=natserv.farshadl.top&type=ws&host=natserv.farshadl.top&path=%2F#saman_MCI1
-vless://559be4d0-3be2-4bb9-96a6-a2d64a81e1b9@mci2.farshadl.top:2053?encryption=none&security=tls&sni=natserv.farshadl.top&type=ws&host=natserv.farshadl.top&path=%2F#saman_MCI2
+vless://559be4d0-3be2-4bb9-96a6-a2d64a81e1b9@msr.farshadl.top:2053?encryption=none&security=tls&type=ws&path=%2FIR%401453#saman_Direct
+vless://559be4d0-3be2-4bb9-96a6-a2d64a81e1b9@mci1.farshadl.top:2053?encryption=none&security=tls&sni=msr.farshadl.top&type=ws&host=msr.farshadl.top&path=%2FIR%401453#saman_MCI1
+vless://559be4d0-3be2-4bb9-96a6-a2d64a81e1b9@mci2.farshadl.top:2053?encryption=none&security=tls&sni=msr.farshadl.top&type=ws&host=msr.farshadl.top&path=%2FIR%401453#saman_MCI2
 vless://fd596b33-0eae-45a0-8a6d-c13fadea6623@104.25.140.153:443?encryption=none&security=tls&type=ws&host=natvpswrk2.farshad-l.workers.dev&path=%2Fworker.farshadl.top#saman_worker1
 vless://fd596b33-0eae-45a0-8a6d-c13fadea6623@104.25.140.153:443?encryption=none&security=tls&type=ws&host=wrk2.farshad-l-1988.workers.dev&path=%2Fworker.farshadl.top#saman_worker2
