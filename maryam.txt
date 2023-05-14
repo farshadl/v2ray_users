@@ -1,5 +1,5 @@
 vless://c83218cb-964d-4f9b-8f61-2527bf43ce1d@ali.farshadl.ir:2053?encryption=none&security=tls&type=ws&path=%2FIR%401453#maryam_Direct
 vless://c83218cb-964d-4f9b-8f61-2527bf43ce1d@mci1.farshadl.top:2053?encryption=none&security=tls&sni=ali.farshadl.ir&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#maryam_MCI
-vless://c83218cb-964d-4f9b-8f61-2527bf43ce1d@mtn.farshadl.top:2053?encryption=none&security=tls&sni=ali.farshadl.ir&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#maryam_TCM
+vless://c83218cb-964d-4f9b-8f61-2527bf43ce1d@mtn.farshadl.top:2053?encryption=none&security=tls&sni=ali.farshadl.ir&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#maryam_MTN
 vless://fbd9bb87-eeaf-4d68-94b5-7c97b0fb90d5@104.25.140.153:443?encryption=none&security=tls&type=ws&host=natvpswrk2.farshad-l.workers.dev&path=%2Fworker.farshadl.top#maryam_worker1
 vless://fbd9bb87-eeaf-4d68-94b5-7c97b0fb90d5@104.25.140.153:443?encryption=none&security=tls&type=ws&host=wrk2.farshad-l-1988.workers.dev&path=%2Fworker.farshadl.top#maryam_worker2
