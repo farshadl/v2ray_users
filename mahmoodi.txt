@@ -1,5 +1,4 @@
 vless://9a569681-d34e-4516-ff8c-6643ef92978c@ali.farshadl.ir:2053?encryption=none&security=tls&type=ws&path=%2FIR%401453#mahmoodi_Direct
 vless://9a569681-d34e-4516-ff8c-6643ef92978c@mci1.farshadl.top:2053?encryption=none&security=tls&sni=ali.farshadl.ir&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#mahmoodi_MCI1
 vless://9a569681-d34e-4516-ff8c-6643ef92978c@mci2.farshadl.top:2053?encryption=none&security=tls&sni=ali.farshadl.ir&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#mahmoodi_MCI2
-vless://11630572-4eb2-4272-9b04-694f3a7fb81d@104.25.140.153:443?encryption=none&security=tls&type=ws&host=natvpswrk2.farshad-l.workers.dev&path=%2Fworker.farshadl.top#mahmoodi_worker1
-vless://11630572-4eb2-4272-9b04-694f3a7fb81d@104.25.140.153:443?encryption=none&security=tls&type=ws&host=wrk2.farshad-l-1988.workers.dev&path=%2Fworker.farshadl.top#mahmoodi_worker2
+

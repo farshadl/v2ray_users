@@ -6,8 +6,7 @@ vless://d3f120dc-27de-471b-fb60-64c38040da44@mci2.farshadl.top:2053?encryption=n
 vless://d3f120dc-27de-471b-fb60-64c38040da44@mtn.farshadl.top:2053?encryption=none&security=tls&sni=ali.farshadl.ir&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#Farshad_MTN
 vless://d3f120dc-27de-471b-fb60-64c38040da44@mkh.farshadl.top:2053?encryption=none&security=tls&sni=ali.farshadl.ir&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#Farshad_Mokhaberat
 vless://d3f120dc-27de-471b-fb60-64c38040da44@ast.farshadl.top:2053?encryption=none&security=tls&sni=ali.farshadl.ir&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#Farshad_Asiatech
-vless://ae78f845-89f4-4203-cf6f-45a37f4316a7@104.25.140.153:443?encryption=none&security=tls&type=ws&host=natvpswrk2.farshad-l.workers.dev&path=%2Fworker.farshadl.top#Farshad_worker1
-vless://ae78f845-89f4-4203-cf6f-45a37f4316a7@104.25.140.153:443?encryption=none&security=tls&type=ws&host=wrk2.farshad-l-1988.workers.dev&path=%2Fworker.farshadl.top#Farshad_worker2
+
 
 
 

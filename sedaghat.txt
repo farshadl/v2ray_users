@@ -2,5 +2,4 @@ vless://10902191-b8cb-409d-f413-50ab042096cf@ali.farshadl.ir:2053?encryption=non
 vless://10902191-b8cb-409d-f413-50ab042096cf@mci1.farshadl.top:2053?encryption=none&security=tls&sni=ali.farshadl.ir&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#sedaghat_MCI1
 vless://10902191-b8cb-409d-f413-50ab042096cf@mci2.farshadl.top:2053?encryption=none&security=tls&sni=ali.farshadl.ir&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#sedaghat_MCI2
 vless://10902191-b8cb-409d-f413-50ab042096cf@mtn.farshadl.top:2053?encryption=none&security=tls&sni=ali.farshadl.ir&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#sedaghat_MTN
-vless://9e18152f-b067-4fb5-eecf-b2c41a308b3c@104.25.140.153:443?encryption=none&security=tls&type=ws&host=natvpswrk2.farshad-l.workers.dev&path=%2Fworker.farshadl.top#sedaghat_worker1
-vless://9e18152f-b067-4fb5-eecf-b2c41a308b3c@104.25.140.153:443?encryption=none&security=tls&type=ws&host=wrk2.farshad-l-1988.workers.dev&path=%2Fworker.farshadl.top#sedaghat_worker2
+
