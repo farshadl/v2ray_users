@@ -1,4 +1,2 @@
-vless://aa295e04-069e-4869-ce8b-09423ac5591d@ali.farshadl.ir:2053?encryption=none&security=tls&type=ws&path=%2FIR%401453#rasti_Direct
-vless://aa295e04-069e-4869-ce8b-09423ac5591d@mci1.farshadl.top:2053?encryption=none&security=tls&sni=ali.farshadl.ir&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#rasti_MCI1
-vless://aa295e04-069e-4869-ce8b-09423ac5591d@mci2.farshadl.top:2053?encryption=none&security=tls&sni=ali.farshadl.ir&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#rasti_MCI2
-
+vless://aa295e04-069e-4869-ce8b-09423ac5591d@mci1.farshadl.top:2053?encryption=none&security=tls&sni=ali.farshadl.ir&alpn=h2&fp=chrome&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#rasti_MCI1
+vless://aa295e04-069e-4869-ce8b-09423ac5591d@mci2.farshadl.top:2053?encryption=none&security=tls&sni=ali.farshadl.ir&alpn=h2&fp=chrome&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#rasti_MCI2
