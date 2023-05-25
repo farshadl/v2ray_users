@@ -1,7 +1,6 @@
-vless://3041a6ab-be8c-41a6-96ae-2cf941a08246@panel1.farshadl.top:11203?encryption=none&security=reality&sni=ftp.debian.org&fp=firefox&pbk=Y6pQst4JhGlgbj7ato1evuoCJQmb1gelf-iE5WQQBzY&sid=1578f1d4&type=grpc#Reality-farshad_RY
+vless://526864e2-648b-482e-b919-b63e34b2447f@195.170.172.108:11202?type=tcp&security=reality&fp=chrome&pbk=SmBVVeRo5GFDuqARGCEwdSE5e9oUOsaYw44WiXo6wVI&sni=lastpass.com&flow=xtls-rprx-vision&sid=62c63438#Farshad_RLT_TCP
 vless://d3f120dc-27de-471b-fb60-64c38040da44@mci1.farshadl.top:2053?encryption=none&security=tls&sni=ali.farshadl.ir&alpn=h2&fp=chrome&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#Farshad_MCI1
 vless://d3f120dc-27de-471b-fb60-64c38040da44@mci2.farshadl.top:2053?encryption=none&security=tls&sni=ali.farshadl.ir&alpn=h2&fp=chrome&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#Farshad_MCI2
-vless://d3f120dc-27de-471b-fb60-64c38040da44@mkh.farshadl.top:2053?encryption=none&security=tls&sni=ali.farshadl.ir&alpn=h2&fp=chrome&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#Farshad_Mokhaberat
 vless://d3f120dc-27de-471b-fb60-64c38040da44@104.16.21.13:2053?encryption=none&security=tls&sni=ali.farshadl.ir&alpn=h2&fp=chrome&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#Farshad_Test
 
 
