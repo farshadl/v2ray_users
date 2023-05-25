@@ -1,2 +1,2 @@
-vless://e6ba3b1a-a766-44a2-9b33-b695504ec3d4@mci1.farshadl.top:2053?encryption=none&security=tls&sni=ali.farshadl.ir&alpn=h2&fp=chrome&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#seyed_MCI1
-vless://e6ba3b1a-a766-44a2-9b33-b695504ec3d4@mci2.farshadl.top:2053?encryption=none&security=tls&sni=ali.farshadl.ir&alpn=h2&fp=chrome&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#seyed_MCI2
+vless://e6ba3b1a-a766-44a2-9b33-b695504ec3d4@mci1.farshadl.top:2053?encryption=none&security=tls&sni=ali.farshadl.ir&alpn=h2&fp=chrome&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#amirhosein_MCI1
+vless://e6ba3b1a-a766-44a2-9b33-b695504ec3d4@mci2.farshadl.top:2053?encryption=none&security=tls&sni=ali.farshadl.ir&alpn=h2&fp=chrome&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#amirhosein_MCI2
