@@ -1,2 +1,0 @@
-vless://1c450a4e-b3d3-4569-d8cb-64040dea78a8@mci1.farshadl.top:2053?path=%2FIR%401453&security=tls&encryption=none&alpn=h2&host=ali.farshadl.ir&fp=chrome&type=ws&sni=ali.farshadl.ir#Seyyed2_MCI1
-vless://1c450a4e-b3d3-4569-d8cb-64040dea78a8@mci2.farshadl.top:2053?path=%2FIR%401453&security=tls&encryption=none&alpn=h2&host=ali.farshadl.ir&fp=chrome&type=ws&sni=ali.farshadl.ir#Seyyed2_MCI2
