@@ -1,3 +1,1 @@
-vless://c83218cb-964d-4f9b-8f61-2527bf43ce2d@mci1.farshadl.ir:2053?encryption=none&security=tls&sni=ali.farshadl.ir&alpn=h2&fp=chrome&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#maryam_MCI1
-vless://c83218cb-964d-4f9b-8f61-2527bf43ce2d@mci2.farshadl.ir:2053?encryption=none&security=tls&sni=ali.farshadl.ir&alpn=h2&fp=chrome&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#maryam_MCI2
-vless://c83218cb-964d-4f9b-8f61-2527bf43ce2d@mtn.farshadl.ir:2053?encryption=none&security=tls&sni=ali.farshadl.ir&alpn=h2&fp=chrome&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#maryam_MTN
+vless://f416fbd5-6f01-47c1-c2df-2e4e6ac07972@snappfood.ir:443?encryption=none&security=tls&sni=ali.farshadl.top&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=ali.farshadl.top&path=%2F#Maryam_ARV
