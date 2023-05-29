@@ -1,2 +1,0 @@
-vless://559be4d0-3be2-4bb9-96a6-a2d64a81e1b9@mci1.farshadl.ir:2053?encryption=none&security=tls&sni=ali.farshadl.ir&alpn=h2&fp=chrome&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#saman_MCI1
-vless://559be4d0-3be2-4bb9-96a6-a2d64a81e1b9@mci2.farshadl.ir:2053?encryption=none&security=tls&sni=ali.farshadl.ir&alpn=h2&fp=chrome&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#saman_MCI2
