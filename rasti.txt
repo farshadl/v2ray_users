@@ -1,2 +1,1 @@
-vless://a614587c-c269-495a-ad05-943e84f0889b@snappfood.ir:443?type=ws&path=%2F&host=ali.farshadl.top&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=ali.farshadl.top#Rasti_ARV
-vless://aa295e04-069e-4869-ce8b-09423ac5591d@ali.farshadl.ir:2053?encryption=none&security=tls&sni=ali.farshadl.ir&alpn=h2&fp=chrome&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#Rasti_CLF
+vless://a614587c-c269-495a-ad05-943e84f0889b@snappfood.ir:443?type=ws&path=%2F&host=ali.farshadl.top&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=ali.farshadl.top#Rasti_ARV2

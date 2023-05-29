@@ -1,2 +1,1 @@
-vless://8584f2be-f242-4e91-bc7c-bc5ca4c5fe5a@snappfood.ir:443?type=ws&path=%2F&host=ali.farshadl.top&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=ali.farshadl.top#Beigi_ARV
-vless://530fac2d-ca7b-4f41-ca2d-40af94e92e7c@ali.farshadl.ir:2053?encryption=none&security=tls&sni=ali.farshadl.ir&alpn=h2&fp=chrome&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#Beigi_CLF
+vless://8584f2be-f242-4e91-bc7c-bc5ca4c5fe5a@snappfood.ir:443?type=ws&path=%2F&host=ali.farshadl.top&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=ali.farshadl.top#Beigi_ARV2

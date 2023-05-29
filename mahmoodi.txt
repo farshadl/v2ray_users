@@ -1,2 +1,1 @@
-vless://f0f8cecb-ce40-44de-a002-128fdee5e64b@snappfood.ir:443?type=ws&path=%2F&host=ali.farshadl.top&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=ali.farshadl.top#Mahmoodi_ARV
-vless://9a569681-d34e-4516-ff8c-6643ef92978c@ali.farshadl.ir:2053?encryption=none&security=tls&sni=ali.farshadl.ir&alpn=h2&fp=chrome&type=ws&host=ali.farshadl.ir&path=%2FIR%401453#Mahmoodi_CLF
+vless://f0f8cecb-ce40-44de-a002-128fdee5e64b@snappfood.ir:443?type=ws&path=%2F&host=ali.farshadl.top&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=ali.farshadl.top#Mahmoodi_ARV2
