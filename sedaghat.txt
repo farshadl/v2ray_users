@@ -1,1 +1,1 @@
-vless://a5b35fe0-eb7b-4842-99b7-2acff246549a@snappfood.ir:443?encryption=none&security=tls&sni=ali.farshadl.top&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=ali.farshadl.top&path=%2F#Sedaghat_ARV2
+vless://a5b35fe0-eb7b-4842-99b7-2acff246549a@snappfood.ir:443?encryption=none&security=tls&sni=hossein.farshadl.top&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=hossein.farshadl.top&path=%2F#Sedaghat_ARV2
