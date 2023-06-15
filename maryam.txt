@@ -1,1 +1,2 @@
 vless://f416fbd5-6f01-47c1-c2df-2e4e6ac07982@snappfood.ir:443?encryption=none&security=tls&sni=ali.farshadl.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=ali.farshadl.ir&path=%2F#Maryam_ARV1
+vless://65fa9994-97d7-44f6-b755-b2a5337d2527@Backup.neweraa.ir:8443?type=ws&path=&host=Backup.neweraa.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=Backup.neweraa.ir#Maryam_Backup
