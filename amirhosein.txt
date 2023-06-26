@@ -1,2 +1,0 @@
-vless://bb2a9f51-56f2-4cee-fda0-b9a86880b7a9@snappfood.ir:443?type=ws&path=%2F&host=ali.neweraa.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=ali.neweraa.ir#Amirhosein_ARV2
-vless://9756853b-1020-485f-a434-7a6be3890083@Backup.neweraa.ir:8443?type=ws&path=&host=Backup.neweraa.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=Backup.neweraa.ir#Amirhosein_Backup
