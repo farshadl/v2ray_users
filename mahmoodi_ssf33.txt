@@ -1,0 +1,2 @@
+vless://f0f8cecb-ce40-44de-a002-128fdee5e65b@snappfood.ir:443?type=ws&path=%2F&host=ali.neweraa.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=ali.neweraa.ir#Mahmoodi_ARV2
+vless://170778ad-238d-4a24-f9f2-50150a028976@Backup.neweraa.ir:8443?type=ws&path=&host=Backup.neweraa.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=Backup.neweraa.ir#Mahmoodi_Backup
