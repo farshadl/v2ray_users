@@ -1,9 +1,0 @@
-vless://526864e2-648b-482e-b919-b63e34b2447f@195.170.172.108:11202?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lastpass.com&fp=chrome&pbk=KLBtD45JS29OS4zFedu7qXv5cjFrnpDO-7eBjxlOFQk&sid=f3e01ff2&type=tcp&headerType=none#Farshad_RLT
-vless://9e51b104-84c9-427a-e5db-52fdaa3745f8@backup.neweraa.ir:8443?encryption=none&security=tls&sni=Backup.neweraa.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=Backup.neweraa.ir#Farshad_Backup
-vless://0dad79de-4d24-4630-8db1-5b5ed1ea6d9c@snappfood.ir:443?encryption=none&security=tls&sni=ali.farshadl.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=ali.farshadl.ir&path=%2F#Farshad_ARV1
-vless://0dad79de-4d24-4630-8db1-5b5ed1ea6d9c@snappfood.ir:443?encryption=none&security=tls&sni=ali.neweraa.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=ali.neweraa.ir&path=%2F#Farshad_ARV2
-
-
-
-
-
