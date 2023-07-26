@@ -1,2 +1,2 @@
-vless://a614587c-c269-495a-ad05-943e84f0899b@snappfood.ir:443?type=ws&path=%2F&host=ali.neweraa.ir&security=tls&alpn=http%2F1.1&sni=ali.neweraa.ir#Rasti_ARV2
+vless://a614587c-c269-495a-ad05-943e84f0899b@snappfood.ir:443?type=ws&path=%2F&host=ali.neweraa.ir&security=tls&alpn=http%2F1.1&sni=ali.neweraa.ir#Rasti_ARV
 vless://d18d1e24-d474-47a0-cc68-c60184270e80@mci1.neweraa.ir:443?encryption=none&security=tls&sni=racknclf1.neweraa.ir&alpn=http%2F1.1&type=ws&host=racknclf1.neweraa.ir#Rasti_MCI1
