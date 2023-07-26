@@ -1,2 +1,2 @@
 vless://f416fbd5-6f01-47c1-c2df-2e4e6ac07982@snappfood.ir:443?encryption=none&security=tls&sni=ali.neweraa.ir&alpn=http%2F1.1&type=ws&host=ali.neweraa.ir&path=%2F#Maryam_ARV
-vless://65fa9994-97d7-44f6-b755-b2a5337d2527@mci1.neweraa.ir:443?encryption=none&security=tls&sni=racknclf1.neweraa.ir&alpn=http%2F1.1&type=ws&host=racknclf1.neweraa.ir#Maryam_MCI1
+vless://65fa9994-97d7-44f6-b755-b2a5337d2527@flmci1.ddns.net:8443?encryption=none&security=tls&sni=Racknclf1.Farshadl.top&alpn=http%2F1.1&type=ws&host=Racknclf1.Farshadl.top#Maryam_MCI1

@@ -1,5 +1,5 @@
 vless://526864e2-648b-482e-b919-b63e34b2447f@195.170.172.108:11202?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lastpass.com&fp=chrome&pbk=KLBtD45JS29OS4zFedu7qXv5cjFrnpDO-7eBjxlOFQk&sid=f3e01ff2&type=tcp&headerType=none#Farshad_RLT
-vless://9e51b104-84c9-427a-e5db-52fdaa3745f8@mci1.neweraa.ir:443?encryption=none&security=tls&sni=racknclf1.neweraa.ir&alpn=http%2F1.1&type=ws&host=racknclf1.neweraa.ir#Farshad_MCI1
+vless://9e51b104-84c9-427a-e5db-52fdaa3745f8@flmci1.ddns.net:8443?encryption=none&security=tls&sni=Racknclf1.Farshadl.top&alpn=http%2F1.1&type=ws&host=Racknclf1.Farshadl.top#Farshad_MCI1
 vless://42f6660e-a02d-4d24-b739-5df5b6b72a2f@snappfood.ir:443?encryption=none&security=tls&sni=ali.neweraa.ir&alpn=http%2F1.1&type=ws&host=ali.neweraa.ir&path=%2F#Farshad_ARV
 vless://14c42ccb-b9de-4a75-b793-313b574e238e@193.233.133.119:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#Arman_TCP_RLT
 vless://14c42ccb-b9de-4a75-b793-313b574e238e@193.233.133.119:2053?encryption=none&security=reality&sni=www.speedtest.net&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=xyz&mode=gun#Arman_GRPC_RLT
