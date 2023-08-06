@@ -1,0 +1,2 @@
+vless://003c8d22-cff9-4860-94c2-b4260ce9570a@snappfood.ir:443?type=ws&path=%2F&host=ali.neweraa.ir&security=tls&fp=&alpn=http%2F1.1&sni=ali.neweraa.ir#Noori_ARV
+vless://7ffc9bc3-1fff-4721-a5db-94ba763edaa8@flmci1.ddns.net:8443?encryption=none&security=tls&sni=Racknclf1.Farshadl.top&alpn=http%2F1.1&type=ws&host=Racknclf1.Farshadl.top#Noori_MCI1
