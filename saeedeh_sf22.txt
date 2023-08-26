@@ -1,5 +1,4 @@
 vless://4f3b0e70-5538-46ab-c49c-a2fa2d687b80@snappfood.ir:443?encryption=none&security=tls&sni=ali.neweraa.ir&alpn=http%2F1.1&type=ws&host=ali.neweraa.ir&path=%2F#Saeedeh_ARV
 vless://261470a2-a9f7-44e4-f216-2418d3351ffa@flmci1.ddns.net:8443?encryption=none&security=tls&sni=Racknclf1.Farshadl.top&alpn=http%2F1.1&type=ws&host=Racknclf1.Farshadl.top#Saeedeh_MCI1
-vless://261470a2-a9f7-44e4-f216-2418d3351ffa@irancell.farshadl.ir:8443?encryption=none&security=tls&sni=Racknclf1.Farshadl.ir&alpn=http%2F1.1&type=ws&host=Racknclf1.Farshadl.ir#Saeedeh_CLF1-Irancell
 vless://808d016a-ae08-43fd-8565-68d43d19f248@195.170.172.108:11202?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lastpass.com&fp=chrome&pbk=HgeUjk6nKNTBltP0GV1997LzzPZANbT1eyweVH2DdTc&sid=51b83de1&type=tcp&headerType=none#Saeedeh_RLT
 
