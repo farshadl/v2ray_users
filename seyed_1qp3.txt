@@ -1,2 +1,0 @@
-vless://7989b451-cd65-4687-a3d3-ba66d5c306a2@snappfood.ir:443?encryption=none&security=tls&sni=ali.neweraa.ir&alpn=http%2F1.1&type=ws&host=ali.neweraa.ir&path=%2F#Seyed_ARV
-vless://95455192-28f9-49f5-8e96-246e219d2d37@flmci1.ddns.net:8443?encryption=none&security=tls&sni=Racknclf1.Farshadl.top&alpn=http%2F1.1&type=ws&host=Racknclf1.Farshadl.top#Seyed_MCI1
